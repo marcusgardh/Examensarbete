@@ -1,0 +1,105 @@
+.font-times {
+    font-family: 'Times New Roman', serif;
+}
+
+.font-brush {
+    font-family: 'Brush Script MT', cursive;
+}
+
+.font-courier {
+    font-family: 'Courier New', monospace;
+}
+
+.font-helvetica {
+    font-family: Helvetica, sans-serif;
+}
+
+.theme-winter {
+    background-color: #8BA8D3;
+}
+
+.theme-winter:hover {
+    background-color: #C2D2E8;
+}
+
+.theme-winter-inactive {
+    background-color: #8BA8D3;
+}
+
+.theme-spring {
+    background-color: #A8E287;
+}
+
+.theme-spring:hover {
+    background-color: #D5F1C5;
+}
+
+.theme-spring-inactive {
+    background-color: #A8E287;
+}
+
+.theme-summer {
+    background-color: #F9F7D1;
+}
+
+.theme-summer:hover {
+    background-color: #FCFBE8;
+}
+
+.theme-summer-inactive {
+    background-color: #F9F7D1;
+}
+
+.theme-autumn {
+    background-color: #A58968;
+}
+
+.theme-autumn:hover {
+    background-color: #C2AE98;
+}
+
+.theme-autumn-inactive {
+    background-color: #A58968;
+}
+
+.theme-emilia {
+    background-color: #CBC2B1;
+}
+
+.theme-emilia:hover {
+    background-color: #EAE6DF;
+}
+
+.theme-emilia-inactive {
+    background-color: #CBC2B1;
+}
+
+.theme-marcus {
+    background-color: #BEB1E5;
+}
+
+.theme-marcus:hover {
+    background-color: #EEEAF8;
+}
+
+.theme-marcus-inactive {
+    background-color: #BEB1E5;
+}
+
+.border-solid {
+    border: 1px solid #000;
+}
+
+.border-dashed {
+    border: 1px dashed #000;
+}
+
+.border-double {
+    border: 1px double #000;
+}
+
+.border-crazy {
+    border-width: 1px;
+    border-style: dotted dashed solid double;
+    border-color: #000;
+}

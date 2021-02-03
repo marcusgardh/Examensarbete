@@ -1,0 +1,24 @@
+#customize-area {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 1%;
+
+    #style-form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin: 0 auto;
+
+        .radio {
+            display: flex;
+            justify-content: space-around;
+        }
+    }
+
+    #color-box {
+        margin: 7.5% auto;
+        height: 75px;
+        width: 200px;
+    }
+}

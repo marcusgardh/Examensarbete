@@ -1,0 +1,21 @@
+#calendar-area {
+
+    #calendar {
+        display: flex;
+        justify-content: center; 
+        flex-wrap: wrap;
+        
+        .day {
+            width: 14%;
+            height: 100px;
+            margin-top: 0;
+            padding-top: 0;
+            
+            .day-text {                
+                margin-top: 0;
+                margin-bottom: 5px;
+                padding-top: 0;
+            }
+        }
+    }
+}
